@@ -1,0 +1,14 @@
+.GalleryBody .MuiButtonBase-root{
+  color: rgba(255, 255, 255, 0.698) !important;
+}
+.black{
+  height: 100%;
+  width: 100%;
+  background: 
+  linear-gradient(217deg, rgba(14, 10, 10, 0.8), rgba(66, 0, 0, 0) 70.71%),
+  linear-gradient(127deg, rgba(0, 3, 46, 0.8), rgb(107, 66, 66) 70.71%),
+  linear-gradient(336deg, rgba(167, 163, 163, 0.8), rgb(7, 4, 4) 70.71%);
+  opacity: 0.4;
+  position: absolute;
+  z-index: 1;
+}
