@@ -10,7 +10,7 @@ import { connect } from 'react-redux';
 import TopNav from '../TopNav';
 import BottomNav from '../BottomNav';
 
-import { mapDispatchToProps } from '../../actions/action';
+import { mapDispatchToProps } from '../../redux/action';
 
 
 function Shop(props) {

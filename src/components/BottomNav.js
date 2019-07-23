@@ -8,7 +8,7 @@ import InsertPhoto from '@material-ui/icons/InsertPhoto';
 import { withRouter } from 'react-router';
 import { connect } from 'react-redux';
 
-import { mapDispatchToProps } from '../actions/action';
+import { mapDispatchToProps } from '../redux/action';
 
 const mapStateToProps = state => ({
   state,

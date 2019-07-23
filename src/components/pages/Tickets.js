@@ -10,7 +10,7 @@ import { connect } from 'react-redux';
 import BottomNav from '../BottomNav';
 import TopNav from '../TopNav';
 
-import { mapDispatchToProps } from '../../actions/action';
+import { mapDispatchToProps } from '../../redux/action';
 
 const API_URL = 'http://localhost:5000';
 
